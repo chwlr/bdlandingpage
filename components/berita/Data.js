@@ -1,0 +1,26 @@
+export const Data = [
+    {
+      id : 1,
+      tanggal: '16 Februari 2021',
+      judul: 'Analisis Bencana Longsor',
+      berita: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm. Kawasan ini juga berada pada kelas lereng curam hingga sangat curam, sehingga area ini sangat rawan terhadap terjadinya longsor. Pada kawasan ini, terdapat 33 titik longsor dengan 22 titik longsor di kawasan rawan longsor tinggi dan 11 titik longsor di kawasan rawan longsor sedang. Hal ini menjadi tanda awas untuk 155 bangunan yang berdiri di kawasan rawan longsor tinggi maupun sedang. Berdasarkan time series citra satelit, penggunaan lahan di kawasan ini sebagian besar dimanfaatkan sebagai permukiman. Untuk itu, perlu tindakan tegas untuk patuh terhadap larangan yang tertuang dalam RTRW Kota Manado tahun 2014-2034 yakni tidak membangun pada lahan dengan kemiringan >40%. Selain itu, perlu adanya pemasangan alat Early Warning System di kawasan rawan longsor tinggi, serta peningkatan kapasitas masyarakat dalam mitigasi bencana longsor.',
+      pendek: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm',
+      foto: 'Poster_Rawan_Longsor_Tingkulu'
+    },
+    // {
+    //   id : 2,
+    //   tanggal: '16 Februari 2021',
+    //   judul: 'Analisis Bencana Longsor',
+    //   berita: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm. Kawasan ini juga berada pada kelas lereng curam hingga sangat curam, sehingga area ini sangat rawan terhadap terjadinya longsor. Pada kawasan ini, terdapat 33 titik longsor dengan 22 titik longsor di kawasan rawan longsor tinggi dan 11 titik longsor di kawasan rawan longsor sedang. Hal ini menjadi tanda awas untuk 155 bangunan yang berdiri di kawasan rawan longsor tinggi maupun sedang. Berdasarkan time series citra satelit, penggunaan lahan di kawasan ini sebagian besar dimanfaatkan sebagai permukiman. Untuk itu, perlu tindakan tegas untuk patuh terhadap larangan yang tertuang dalam RTRW Kota Manado tahun 2014-2034 yakni tidak membangun pada lahan dengan kemiringan >40%. Selain itu, perlu adanya pemasangan alat Early Warning System di kawasan rawan longsor tinggi, serta peningkatan kapasitas masyarakat dalam mitigasi bencana longsor.',
+    //   pendek: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm. Kawasan ini juga berada pada kelas lereng curam hingga sangat curam, sehingga area ini sangat rawan terhadap terjadinya longsor.',
+    //   foto: 'Poster_Rawan_Longsor_Tingkulu'
+    // },
+    // {
+    //   id : 3,
+    //   tanggal: '16 Februari 2021',
+    //   judul: 'Analisis Bencana Longsor',
+    //   berita: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm. Kawasan ini juga berada pada kelas lereng curam hingga sangat curam, sehingga area ini sangat rawan terhadap terjadinya longsor. Pada kawasan ini, terdapat 33 titik longsor dengan 22 titik longsor di kawasan rawan longsor tinggi dan 11 titik longsor di kawasan rawan longsor sedang. Hal ini menjadi tanda awas untuk 155 bangunan yang berdiri di kawasan rawan longsor tinggi maupun sedang. Berdasarkan time series citra satelit, penggunaan lahan di kawasan ini sebagian besar dimanfaatkan sebagai permukiman. Untuk itu, perlu tindakan tegas untuk patuh terhadap larangan yang tertuang dalam RTRW Kota Manado tahun 2014-2034 yakni tidak membangun pada lahan dengan kemiringan >40%. Selain itu, perlu adanya pemasangan alat Early Warning System di kawasan rawan longsor tinggi, serta peningkatan kapasitas masyarakat dalam mitigasi bencana longsor.',
+    //   pendek: 'Salah satu kawasan yang terkena dampak dari bencana banjir dan longsor di Kota Manado pada tanggal 22 Januari 2021 adalah kawasan Tingkulu. Berdasarkan data curah hujan harian saat itu, kawasan ini berada pada kategori curah hujan sangat tinggi yakni mencapai 259 mm. Kawasan ini juga berada pada kelas lereng curam hingga sangat curam, sehingga area ini sangat rawan terhadap terjadinya longsor.',
+    //   foto: 'Poster_Rawan_Longsor_Tingkulu'
+    // },
+  ];

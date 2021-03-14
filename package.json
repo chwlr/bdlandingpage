@@ -1,0 +1,26 @@
+{
+  "name": "landingpagefs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel-plugin-styled-components": "^1.12.0",
+    "bootstrap": "^4.6.0",
+    "leaflet": "^1.7.1",
+    "leaflet-defaulticon-compatibility": "^0.1.1",
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-dom": "17.0.1",
+    "react-icons": "^4.1.0",
+    "react-leaflet": "^3.1.0",
+    "react-spring": "^8.0.27",
+    "react-vertical-timeline-component": "^3.3.3",
+    "styled-components": "^5.2.1"
+  }
+}
