@@ -11,7 +11,7 @@ import { LmbgContainer, LmbgCard } from './lembagaStyle'
               <img style={{ maxWidth: "100%", height: "100px" }} src="/Badan_Informasi_Geospasial_logo.png" alt="Logo badan informasi geospasial" />
               <img style={{ maxWidth: "100%", height: "100px" }} src="/bmkg.png" alt="Logo Badan Meteorologi, Klimatologi, dan Geofisika" />
               <img style={{ maxWidth: "100%", height: "100px"}} src="/kotaku.png" alt="Logo Kota Tanpa Kumuh" />
-              <img style={{ maxWidth: "100%", height: "100px" }} src="/lapan.png" alt="Logo Lembaga Penerbangan dan Antariksa Nasional" />
+              <img style={{ maxWidth: "100%", height: "100px" }} src="/LAPAN.png" alt="Logo Lembaga Penerbangan dan Antariksa Nasional" />
             </LmbgCard>
           </Col>
         </Row>
