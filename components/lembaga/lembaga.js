@@ -8,10 +8,10 @@ import { LmbgContainer, LmbgCard } from './lembagaStyle'
         <Row className="ml-auto">
           <Col>
             <LmbgCard>
-              <img style={{ maxWidth: "100%", height: "100px" }} src="/Badan_Informasi_Geospasial_logo.png"/>
-              <img style={{ maxWidth: "100%", height: "100px" }} src="/bmkg.png"/>
-              <img style={{ maxWidth: "100%", height: "100px"}} src="/kotaku.png"/>
-              <img style={{ maxWidth: "100%", height: "100px" }} src="/lapan.png"/>
+              <img style={{ maxWidth: "100%", height: "100px" }} src="/Badan_Informasi_Geospasial_logo.png" alt="Logo badan informasi geospasial" />
+              <img style={{ maxWidth: "100%", height: "100px" }} src="/bmkg.png" alt="Logo Badan Meteorologi, Klimatologi, dan Geofisika" />
+              <img style={{ maxWidth: "100%", height: "100px"}} src="/kotaku.png" alt="Logo Kota Tanpa Kumuh" />
+              <img style={{ maxWidth: "100%", height: "100px" }} src="/lapan.png" alt="Logo Lembaga Penerbangan dan Antariksa Nasional" />
             </LmbgCard>
           </Col>
         </Row>
