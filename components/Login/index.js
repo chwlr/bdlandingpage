@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { Form, Button, Card} from 'react-bootstrap'
 
 export default function LoginTo() {
@@ -13,9 +14,11 @@ export default function LoginTo() {
             <Form.Label>Password</Form.Label>
             <Form.Control type="password" placeholder="Password" />
           </Form.Group>
-          <Button variant="primary" type="submit" className="btn btn-primary btn-block">
-            Submit
-          </Button>
+          <Link href="/dashboard/admin">
+            <Button variant="primary" type="submit" className="btn btn-primary btn-block">
+              Submit
+            </Button>
+          </Link>
         </Form>
     </Card>
   )
