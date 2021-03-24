@@ -27,7 +27,7 @@ export default function LeafletMaps () {
 
 return (
     <MapContainers className="my-5">
-            <h1 className="text-center mb-5" style={{ color: "#14213D", fontWeight: "bold" }}>Layer Geoportal</h1>
+            <h1 className="text-center mb-5" style={{ color: "#14213D", fontWeight: "bold" }}>Layer Peta Terbaru</h1>
             <Row>
                 <Col md lg>
                     <h5 className="text-center" style={{ color: "#14213D", fontWeight: "bold", margin: "15px", padding: "10px" }}>Titik CCTV Kota Manado</h5>

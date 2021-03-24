@@ -10,6 +10,7 @@ const LmbgCard = styled(Card)`
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
   color: white;
   border: 1px solid transparent;
   padding: 1rem;
