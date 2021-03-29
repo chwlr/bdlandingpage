@@ -24,7 +24,7 @@ export default function Navbarx() {
                   <Nav.Link className="mx-2" href="#peta">PETA</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
-                    <Nav.Link className="mx-2" href="#misi">VISI {'&'} MISI</Nav.Link>
+                    <Nav.Link className="mx-2" href="#misi">Gambaran Umum</Nav.Link>
                   </Nav.Item>
                   <Nav.Item>
                     <Nav.Link className="mx-2" href="#faq">FAQ</Nav.Link>

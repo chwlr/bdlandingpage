@@ -1,5 +1,12 @@
 import { useRouter } from "next/router";
-import Link from "next/link";
+import {Container, Row, Col, Card} from 'react-bootstrap'
+import Image from 'next/image'
+import styled from 'styled-components'
+
+
+const CardStyle = styled(Card)`
+  padding: 10px;
+`
 
 export default function BeritaItem() {
 
@@ -9,8 +16,15 @@ export default function BeritaItem() {
 
   console.log(item)
   return (
-    <div>
-      <h1>hello world</h1>
-    </div>
+    <Container>
+      <Row>
+        <Col>
+          <CardStyle>
+            <Image src="/Poster_Rawan_Longsor_Tingkulu.jpg" alt="Picture of the author"
+              layout="responsive" width="500" height="auto"/>
+            </CardStyle>
+        </Col>
+      </Row>
+    </Container>
   );
 }
