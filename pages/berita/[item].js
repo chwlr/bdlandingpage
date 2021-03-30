@@ -20,7 +20,7 @@ export default function BeritaItem() {
       <Row>
         <Col>
           <CardStyle>
-            <h1>judul</h1>
+            <h1>judul aja</h1>
             <Image src="/Poster_Rawan_Longsor_Tingkulu.jpg" alt="Picture of the author"
               layout="responsive" width="500" height="auto"/>
             </CardStyle>
